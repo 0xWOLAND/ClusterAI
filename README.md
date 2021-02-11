@@ -1,6 +1,6 @@
 This is the ClusterAI project, which is a web app connected to a crowd counting machine learning algorithm running on a Raspberry Pi. The detections from the Pi are forwarded through a Ad-Hoc Mesh Network system using a reinforcement learning routing protocol. This allows results to be forwarded without the use of internet connection, which may not be available during natural disaster events such as hurricanes or floods. This software uses Flask for the REST API, ReactJS, NodeJS, Firebase, Tensorflow. The programming languages that have been used are JSX, CSS, HTML, and Python.
 
-#Other Components
+# Other Components
   - Mesh: https://github.com/bhargavannem/Cluster-AI-Mesh
   - Convs: https://github.com/bhargavannem/Cluster-AI-Conv
 
